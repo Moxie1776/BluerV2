@@ -29,8 +29,8 @@
   - [X] [Fluidd UI](https://github.com/cadriel/fluidd)
 - [X] [V6 Hotend](https://www.aliexpress.com/item/4000054903441.html)
   - [X] [Makeshift cooling system](https://www.thingiverse.com/thing:4602733)
-  - [ ] [Migrate to titan extruder that is on my E3 currently](https://www.thingiverse.com/thing:3769819)
-    - This is printed but not installed. I really like this cooling system
+  - [X] [Migrate to titan extruder that is on my E3 currently](https://www.thingiverse.com/thing:3769819)
+    - I like this system a lot, best cooling system I have tried so far
 - [ ] [Chain Link going up to bed](https://www.thingiverse.com/thing:4842636)
   - Before I stumbled upon this I was concered the wires from the bed would be a wear point for failure
 - [ ] This printer really needs a cable management sysetem
