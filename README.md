@@ -33,7 +33,7 @@
     -   [x] [Titan extruder and V6 hotend](https://www.aliexpress.com/item/32765576131.html)
         -   I like this system a lot, best cooling system and hotend/extruder combo I have used
         -   [Stock Ender 3 carriage plate](https://www.aliexpress.com/item/1005001370420930.html)
-        -   [Stock Ender 3 X axis pulley cover](https://www.thingiverse.com/thing:2974646) there are several choices if you search
+        -   [Stock Ender 3 X axis pulley cover](https://www.thingiverse.com/thing:2835282) there are several choices if you search
         -   [Stock Ender 3 endstop](https://www.aliexpress.com/item/4000056510361.html)
 -   [x] [Chain Link going up to bed](https://www.thingiverse.com/thing:4842636)
     -   Before I stumbled upon this I was concerned the wires from the bed would be a wear point for failure
