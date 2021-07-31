@@ -29,15 +29,15 @@
     -   [x] [Moonraker](https://github.com/Arksine/moonraker)
     -   [x] [Fluidd UI](https://github.com/cadriel/fluidd)
 -   [x] [V6 Hotend](https://www.aliexpress.com/item/4000054903441.html)
-    -   [x] [Makeshift cooling system](https://www.thingiverse.com/thing:4602733)
-    -   [x] [Migrate to titan extruder that is on my E3 currently](https://www.thingiverse.com/thing:3769819)
-        -   I like this system a lot, best cooling system I have tried so far
-        -   I used a stock Ender 3 carriage plate ($2.95 from trianglelab)
-        -   Stock Ender 3 X axis pulley cover (can download blueprint from thingyverse)
-        -   Stock Ender 3 endstop (very cheap on aliexpress, I'm usin my Ender 3 Z endstop that I removed when I added a BLTouch to it)
+    -   [x] [Printable cooling system](https://www.thingiverse.com/thing:3769819)
+    -   [x] [Titan extruder and V6 hotend](https://www.aliexpress.com/item/32765576131.html)
+        -   I like this system a lot, best cooling system and hotend/extruder combo I have used
+        -   [Stock Ender 3 carriage plate](https://www.aliexpress.com/item/1005001370420930.html)
+        -   [Stock Ender 3 X axis pulley cover](https://www.thingiverse.com/thing:2974646) there are several choices if you search
+        -   [Stock Ender 3 endstop](https://www.aliexpress.com/item/4000056510361.html)
 -   [x] [Chain Link going up to bed](https://www.thingiverse.com/thing:4842636)
     -   Before I stumbled upon this I was concerned the wires from the bed would be a wear point for failure
--   [ ] This printer really needs a compplete cable management system
+-   [ ] This printer really needs a complete cable management system
     -   I have yet to find a cable management system for the Bluer that seems practical/decent
 -   [ ] [Belt driven dual Z axis single](https://github.com/kevinakasam/BeltDrivenEnder3)
     -   This is the last big upgrade I have planned
